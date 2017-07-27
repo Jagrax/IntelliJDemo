@@ -1,0 +1,25 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ file
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.tmj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+.idea
+*.iml
